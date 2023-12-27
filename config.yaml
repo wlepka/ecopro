@@ -1,0 +1,7 @@
+path: E:\PycharmProjects\something\Object_Detection_Yolo\data
+train: images/train
+val: images/val
+
+nc: 3
+names: ['cardboard', 'glass' , 'pet_bottle']
+
